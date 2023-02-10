@@ -5215,8 +5215,8 @@ is-upper-case@^1.1.0:
     upper-case "^1.1.0"
 
 is-url@^1.2.0:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/is-url/-/is-url-1.2.2.tgz#498905a593bf47cc2d9e7f738372bbf7696c7f26"
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/is-url/-/is-url-1.2.4.tgz#04a4df46d28c4cff3d73d01ff06abeb318a1aa52"
 
 is-utf8@^0.2.0:
   version "0.2.1"
@@ -7689,9 +7689,9 @@ querystringify@0.0.x:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-0.0.4.tgz#0cf7f84f9463ff0ae51c4c4b142d95be37724d9c"
 
-quran-components@^0.0.69:
-  version "0.0.69"
-  resolved "https://registry.yarnpkg.com/quran-components/-/quran-components-0.0.69.tgz#d53052355319097ecb91024bd943ef7837fc8860"
+quran-components@^0.0.73:
+  version "0.0.73"
+  resolved "https://registry.yarnpkg.com/quran-components/-/quran-components-0.0.73.tgz#310a51ba9fa9411721b950c8f1bcb422332e24f2"
   dependencies:
     react-icons "^2.2.3"
     react-tether "^0.5.6"
