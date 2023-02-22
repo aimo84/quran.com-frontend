@@ -1709,9 +1709,9 @@ bootstrap-loader@^2.1.0:
     semver "^5.3.0"
     strip-json-comments "^2.0.1"
 
-bootstrap-sass@3.3.7:
-  version "3.3.7"
-  resolved "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.3.7.tgz#6596c7ab40f6637393323ab0bc80d064fc630498"
+bootstrap-sass@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.1.tgz#6843c73b1c258a0ac5cb2cc6f6f5285b664a8e9a"
 
 brace-expansion@^1.0.0:
   version "1.1.6"
@@ -7689,9 +7689,9 @@ querystringify@0.0.x:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-0.0.4.tgz#0cf7f84f9463ff0ae51c4c4b142d95be37724d9c"
 
-quran-components@^0.0.69:
-  version "0.0.69"
-  resolved "https://registry.yarnpkg.com/quran-components/-/quran-components-0.0.69.tgz#d53052355319097ecb91024bd943ef7837fc8860"
+quran-components@^0.0.73:
+  version "0.0.73"
+  resolved "https://registry.yarnpkg.com/quran-components/-/quran-components-0.0.73.tgz#310a51ba9fa9411721b950c8f1bcb422332e24f2"
   dependencies:
     react-icons "^2.2.3"
     react-tether "^0.5.6"
